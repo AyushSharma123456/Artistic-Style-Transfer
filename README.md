@@ -1,5 +1,7 @@
 # Artistic-Style-Transfer
 
+This Project is constructed on Google Colab, and therefore, it works best on Google Colab.
+
 This Project is completed in three phases:
 
 1: Preliminary Evaluation
@@ -12,7 +14,7 @@ The dataset for this phase has been created, and uploaded by me on Kaggle for ea
 
 3: Final Nail in the Coffin: 
 
-The dataset for this dataset has been extracted from Kaggle Dataset mentioned before, and the style image for this phase is Artistic6.png. Upload the path of these folders in CONTENT_PATH and STYLE_PATH respectively, and run the execution as given in the Google Colab Notebook. 
+The dataset for this dataset has been extracted from Kaggle Dataset mentioned before (data extracted in notebook itself), and the style image for this phase is Artistic6.png. Upload the path of these folders in CONTENT_PATH and STYLE_PATH respectively, and run the execution as given in the Google Colab Notebook. 
 
 
 
